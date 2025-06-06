@@ -573,7 +573,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: c7c05cf2aca4df1448db37c5547e73a7, type: 3}
     m_FontSize: 100
     m_FontStyle: 1
     m_BestFit: 0
@@ -1350,8 +1350,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 380.13092}
-  m_SizeDelta: {x: -104.0642, y: 523.0917}
+  m_AnchoredPosition: {x: 0, y: 425.67053}
+  m_SizeDelta: {x: -104.0642, y: 432.0125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &981633629
 MonoBehaviour:
@@ -1374,7 +1374,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: c7c05cf2aca4df1448db37c5547e73a7, type: 3}
     m_FontSize: 40
     m_FontStyle: 1
     m_BestFit: 0
@@ -1386,8 +1386,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7DA0\u91CE\u8336\u5712\u4EE5\u7D93\u71DF\u8336\u8449\u92B7\u552E\u70BA\u4E3B\uFF0C\u6709\u91D1\u8431\u3001\u7FE0\u7389\u3001\u7D05\u8336\u3001\u7DA0\u8336\u90FD\u6709\n\n\u88FD\u8336\u9AD4\u9A57\uFF1A\u624B\u5DE5\u7092\u8336\u3001\u697A\u8336\u3001\u6CE1\u8336\u3001\u8336\u5712\u5C0E\u89BD\u89E3\u8AAA\u7B49\n\n\u6B61\u8FCE\u8E34\u8E8D\u5831\u540D!\n\n\u5730\u5740:\u51AC\u5C71\u9109\u4E2D\u5C71\u6751\u4E2D\u57CE\u8DEF132\u865F
-    Lotung, Taiwan 269\n\n\u9023\u7D61\u96FB\u8A71:\r03 958 4888\n"
+  m_Text: "\u7DA0\u91CE\u8336\u5712\u4EE5\u7D93\u71DF\u8336\u8449\u92B7\u552E\u70BA\u4E3B\uFF0C\u6709\u91D1\u8431\u3001\u7FE0\u7389\u3001\u7D05\u8336\u3001\u7DA0\u8336\u90FD\u6709\n\n\u88FD\u8336\u9AD4\u9A57\uFF1A\u624B\u5DE5\u7092\u8336\u3001\u697A\u8336\u3001\u6CE1\u8336\u3001\u8336\u5712\u5C0E\u89BD\u89E3\u8AAA\u7B49\n\u6B61\u8FCE\u8E34\u8E8D\u5831\u540D!\n\u5730\u5740:\u51AC\u5C71\u9109\u4E2D\u5C71\u6751\u4E2D\u57CE\u8DEF132\u865F
+    Lotung, Taiwan 269\n\u9023\u7D61\u96FB\u8A71:\r03 958 4888\n"
 --- !u!222 &981633630
 CanvasRenderer:
   m_ObjectHideFlags: 0
